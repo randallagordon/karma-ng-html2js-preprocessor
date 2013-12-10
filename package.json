@@ -18,7 +18,9 @@
     "html2js"
   ],
   "author": "Vojta Jina <vojta.jina@gmail.com>",
-  "dependencies": {},
+  "dependencies": {
+    "jade": "~0.35.0"
+  },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-simple-mocha": "~0.4",
